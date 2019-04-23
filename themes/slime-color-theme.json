@@ -253,7 +253,7 @@
     },
     {
       "name": "Variables",
-      "scope": "variable, variable.other.readwrite.js, punctuation.definition.variable.php, variable.other, support.variable",
+      "scope": "variable, variable.other.readwrite, variable.other, support.variable, meta.function-call.cpp, meta.function-call.c",
       "settings": {
         "foreground": "#be9296"
       }
